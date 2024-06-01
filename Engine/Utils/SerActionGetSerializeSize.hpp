@@ -1,0 +1,14 @@
+//
+// Created by Sayavdera on 01.06.2024.
+//
+
+#ifndef MUMIN_SERACTIONGETSERIALIZESIZE_HPP
+#define MUMIN_SERACTIONGETSERIALIZESIZE_HPP
+
+
+class SerActionGetSerializeSize {
+
+};
+
+
+#endif //MUMIN_SERACTIONGETSERIALIZESIZE_HPP

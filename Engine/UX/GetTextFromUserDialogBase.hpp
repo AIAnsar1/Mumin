@@ -1,0 +1,14 @@
+//
+// Created by Sayavdera on 01.06.2024.
+//
+
+#ifndef MUMIN_GETTEXTFROMUSERDIALOGBASE_HPP
+#define MUMIN_GETTEXTFROMUSERDIALOGBASE_HPP
+
+
+class GetTextFromUserDialogBase {
+
+};
+
+
+#endif //MUMIN_GETTEXTFROMUSERDIALOGBASE_HPP
